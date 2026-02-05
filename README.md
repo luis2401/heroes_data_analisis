@@ -20,13 +20,14 @@ Analizar información de héroes mediante limpieza, transformación y visualizac
 - Análisis exploratorio y visualización de datos
 
 ## Estructura del proyecto
-
+```
 heroes-data-analysis/
 ├── heroes_data_analysis.ipynb
 ├── data/
 │ └── heroes_information.csv
 ├── README.md
 └── requirements.txt
+```
 
 ## Notas
 Este proyecto se enfoca en análisis exploratorio de datos, por lo que no incluye una fase de carga a base de datos.
