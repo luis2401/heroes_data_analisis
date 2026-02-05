@@ -1,4 +1,4 @@
-# Heroes Data Analysis
+# Heroes Data Analisis
 
 Proyecto de análisis exploratorio de datos realizado en Jupyter Notebook.
 
