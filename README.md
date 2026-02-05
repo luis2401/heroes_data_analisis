@@ -20,6 +20,7 @@ Analizar información de héroes mediante limpieza, transformación y visualizac
 - Análisis exploratorio y visualización de datos
 
 ## Estructura del proyecto
+
 heroes-data-analysis/
 ├── heroes_data_analysis.ipynb
 ├── data/
