@@ -21,8 +21,8 @@ Analizar información de héroes mediante limpieza, transformación y visualizac
 
 ## Estructura del proyecto
 ```
-heroes-data-analysis/
-├── heroes_data_analysis.ipynb
+heroes-data-analisis/
+├── heroes_data_analisis.ipynb
 ├── data/
 │ └── heroes_information.csv
 ├── README.md
